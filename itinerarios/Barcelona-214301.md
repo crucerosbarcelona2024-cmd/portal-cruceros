@@ -1,0 +1,1 @@
+--- titulo: "Barcelona" categoria: "excursiones" precioDesde:  pdfItinerario: "/assets/viajes//itinerario.pdf" ---  
